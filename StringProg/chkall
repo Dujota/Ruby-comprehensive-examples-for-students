@@ -1,0 +1,4 @@
+ruby chk_Finum.rb
+ruby chk_Encode.rb
+ruby chk_Count.rb
+

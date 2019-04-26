@@ -1,0 +1,1 @@
+var search_data = {"index":{"searchIndex":["string","levenshtein()"],"longSearchIndex":["string","string#levenshtein()"],"info":[["String","","String.html","","<p>Levenshein Distance Between Two String\n<p>The Levenshein distance is the minimum number of modificatons needed …\n"],["levenshtein","String","String.html#method-i-levenshtein","(other, ins=2, del=2, sub=1)",""]]}}

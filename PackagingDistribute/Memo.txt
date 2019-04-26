@@ -1,0 +1,10 @@
+==== Packaging and Distributing Code ===
+
+  1. Rubygems
+	  Sharing Ruby code with other developers is amazingly easy: just give
+		them a copy of the file with the code in it. They can require your file
+		and start using your code. The problem arise when you want to update your code, or share it more broadly with the entire community. Rubygems(and rubygems.org) are the solution for those problems.
+		Rubygems.org is the community-funded host for public gems. This site reates a page for every gems that lists the gem's authors and versions. If the gems's author has provided them, links to the gem's home pae, source code, and online documentation will also be shown.
+
+	2. Bundler
+	3. RDoc

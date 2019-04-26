@@ -1,0 +1,7 @@
+echo "open my_first.pdf"
+open my_first.pdf
+echo "open portrait.pdf"
+open portrait.pdf
+echo "open ericblair.pdf"
+open ericblair.pdf
+

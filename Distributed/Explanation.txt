@@ -1,0 +1,3 @@
+  those two libraries are DRb(often referred to as Ruby) and Rinda.
+	This has led to a lot of FUD(fear, uncertainty, and doubt) about what these libraries can and cannot do, and when they are appropriate to use(if at all).
+

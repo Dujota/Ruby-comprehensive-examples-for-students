@@ -1,0 +1,13 @@
+digraph G {
+  a;
+  b;
+  d;
+  e;
+  c;
+  f;
+  a -> b;
+  b -> d;
+  b -> e;
+  a -> c;
+  c -> f;
+}

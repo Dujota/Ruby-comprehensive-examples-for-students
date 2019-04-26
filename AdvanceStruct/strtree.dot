@@ -1,0 +1,15 @@
+digraph G {
+  bongo;
+  grimace;
+  monoid;
+  jewel;
+  plover;
+  nexus;
+  synergy;
+  bongo -> grimace;
+  grimace -> monoid;
+  monoid -> jewel;
+  monoid -> plover;
+  plover -> nexus;
+  plover -> synergy;
+}

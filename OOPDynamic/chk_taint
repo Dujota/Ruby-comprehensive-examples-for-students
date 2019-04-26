@@ -1,0 +1,3 @@
+ruby taint.rb 3*79
+
+

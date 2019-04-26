@@ -1,0 +1,25 @@
+1. Yahoo.ca
+  POP3 host: pop.mail.yahoo.ca
+       Port: 995		# Post Office Ptrotocol 3 over TLS/SSL(POP3S) 
+  SMTP host: smtp.mail.yahoo.ca
+       Port: 465    # Simple Mail Transfer Protocol over TLS/SSL (SMTPS)
+  SSL Protocol: ON  # encrypted connection:  SSL
+
+2. Gmail.com
+  SMTP Host: smtp.gmail.com
+       Port: 587      # e-mal message submission
+  SSL Protocol: OFF
+  TLS Protocol: ON
+
+  POP3 Host: pop.gmail.com
+       Port: 995
+  TLS Protocol: ON
+3. Yahoo.co.jp
+  POP3 host: pop.mail.yahoo.co.jp
+	     Port: 995
+  SSL      : ON
+	SMTP host: smtp.mail.yahoo.co.jp
+	     Port: 465
+  IMAP host: imap.mail.yahoo.co.jp
+	     Port: 993
+  SSL/TLS  : ON

@@ -1,0 +1,3 @@
+Rinda is a software library for creating modular and distributed co-operating services in Ruby using the tuple space or Linda distributed computing paradigm.
+Rinda was later absorbed into Ruby's core distributed Ruby(DRb) module.
+

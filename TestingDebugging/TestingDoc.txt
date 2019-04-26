@@ -1,0 +1,13 @@
+Concepts such as test-driven development(TDD) and behavior-driven development(BDD)
+have gained firm mindshare among developers everywhere.
+  Whether you are a hard-core "test first" person in not the point. The point is that everyone can benefit from tests that are automated, easy to write, and easy to run.
+	Each method 
+	1. RSpec
+	2. Minitest
+	3. Cucumber
+	4. the byebug Debugger
+	5. Pry for Debugger
+	6. Measuring Performance
+	7. Pretty-Printing Object
+
+
